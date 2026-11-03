@@ -1,2 +1,4 @@
-# DataSetGUI
-Java Swing GUI for DataSet Application
+
+## GUI Screenshot
+
+![DataSet GUI Application](DataSetGUI.png)
